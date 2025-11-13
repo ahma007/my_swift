@@ -11,6 +11,3 @@ var minutes = (secondsTotal - hours * 3600) / 60
 var seconds = secondsTotal - hours * 3600 - minutes * 60
 print("\(secondsTotal) секунд это \(hours) часов \(minutes) минут \(seconds) секунд")
 
-
-
-
